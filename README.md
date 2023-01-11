@@ -1,13 +1,5 @@
 Hello! My name is Mamun Rana, and I'm a data scientist who is highly motivated and excited about new technologies. I'm pursuing a PhD in Applied Mathematics with a focus on Markov Chain Monte Carlo uncertainty quantification. I've made the decision to move into the business world because I'm excited to apply my knowledge of machine learning and programming to create potent predictive models and offer valuable insights into operational issues.
 
-I'm also currently enrolled in the Springboard Data Science Track, a six-month intense study on data science, machine learning, Python, and SQL, where I like using cutting-edge machine learning techniques to solve complex real-world problems by modeling both structured and unstructured data. I've worked with pandas and scikit-learn libraries extensively for a range of projects and have more than 8 years of programming expertise (Python, MATLAB, C).
-
-I'm curious, I love learning new things and talking about innovative data applications! I also love sports and I regularly participate in Badminton, Tennis, or Cricket. The most important part of my life is to spend quality time with my family with two beautiful daughters. 
-
-SKILLS: Data Science, Machine Learning,  Python, SQL, Pandas, NumPy, SciPy, Scikit-learn, Git, Data Mining, Data Wrangling, Visualization, Data Storytelling, Logistic Regression, Linear Regression, Regularization, Gradient Boosting, Random Forests,  Gradient Descent, Hypothesis Testing, A/B Testing, Algorithms, Data Structures, Linux, HTML, CSS, Javascript.
-
-Don't hesitate to reach out if you'd like to learn more about myself and how my skill set could help your company reach and exceed their growth goals!
-
 <!--
 **amamun/amamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
