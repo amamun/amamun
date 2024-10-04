@@ -1,4 +1,4 @@
-Hello! My name is Mamun Rana, and I'm a data scientist who is highly motivated and excited about new technologies. I'm pursuing a PhD in Applied Mathematics with a focus on Markov Chain Monte Carlo uncertainty quantification. I've made the decision to move into the business world because I'm excited to apply my knowledge of machine learning and programming to create potent predictive models and offer valuable insights into operational issues.
+Hello! My name is Abdullah, and I'm a SailPoint Developer who is highly motivated and excited about new technologies. I'm also pursuing my PhD in Applied Mathematics with a focus on Markov Chain Monte Carlo uncertainty quantification at the University of Texas at Dallas. 
 
 <!--
 **amamun/amamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
